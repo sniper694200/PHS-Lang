@@ -1,0 +1,12 @@
+//this is a single line comment
+/* this is a
+multiline comment */
+
+p {/*this is where you put your attrabutes*/}/ this is a paragraph /p
+
+pfunk g(){
+/*this is a function*/
+};
+
+
+//i will continue adding more things
